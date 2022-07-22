@@ -56,7 +56,7 @@ Based on the length and colour of the projection and star-like shapes, we were a
 By looking at the sketch, we can also note that I spend very little energy on activities on Sunday which is not really a big surprise :p 
 
 ### Built With:
-This report was built using Python language through Jupyter Notebook and the extracted data comes from a CSV file.
+This report was built using Processing Software & Language and the extracted data comes from a CSV file.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

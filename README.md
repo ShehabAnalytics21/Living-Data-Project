@@ -46,9 +46,9 @@ In my sketch, I used three variables:
 
 Mapping of the Variables was Conducted as Follows:
 1.	I mapped the Steps in my sketch to the length of the projections. (The longer the projection the more steps have been done).
-2.	I mapped the Activity in my sketch to the fill colour of the star-like shapes that are highlighted in the following picture: 
+2.	I mapped the activity in my sketch to the fill colour of the star-like shapes that are highlighted in the following picture: 
 (The redder the colour is the more Activity has been done, the more yellow the colour is the less activity has been done).
-3.	I mapped the Sedentary in my sketch to the stroke of the projections. (The bluer the colour of the projection is the more sedentary I was, the greener the colour is the less sedentary I was).
+3.	I mapped the sedentary activity in my sketch to the stroke of the projections. (The bluer the colour of the projection is the more sedentary I was, the greener the colour is the less sedentary I was).
 
 
 ### General Results:

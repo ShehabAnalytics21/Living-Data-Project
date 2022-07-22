@@ -30,8 +30,6 @@
 [![Product Name Screen
 Shot][product-screenshot]](https://example.com)
 
-[![Product Name Screen
-Shot][product-screenshot-two]](https://example.com)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project:
@@ -50,7 +48,8 @@ In my sketch, I used three variables:
 Mapping of the Variables was Conducted as Follows:
 1.	I mapped the Steps in my sketch to the length of the projections. (The longer the projection the more steps have been done).
 2.	I mapped the activity in my sketch to the fill colour of the star-like shapes that are highlighted in the following picture: 
-    
+    <img src="images/screenshotnew.png" width="200" height="150">
+
     (The redder the colour is the more Activity has been done, the more yellow the colour is the less activity has been done).
 3.	I mapped the sedentary activity in my sketch to the stroke of the projections. (The bluer the colour of the projection is the more sedentary I was, the greener the     colour is the less sedentary I was).
 
@@ -68,24 +67,22 @@ This report was built using Processing Software & Language and the extracted dat
 ## Getting Started:
 
 ### Installation:
-To get the report up and running, please follow these simple steps:
-1. 	First, fork the project to your repository.
-2.	Open the PDF file named “Café Insomnia Report.pdf”. 
-3.	To open the code, download the file “Café Insomnia Code.ipynb”.
- 
-To view the excel sheet that contains the data, please follow the instructions:
+To get the main code up and running, please follow these simple steps:
 1.	First, fork the project to your repository.
-2.	Download the excel file named “transactions.csv “provided in the “data” folder. 
-3.	Open the file using excel or another applicable program. 
+2.	Download the CSV file named “collected_data.csv” into your desired folder. 
+3.	Create a new Processing file in the same folder. 
+4.	Open the PDE file named “Living_Data_Project.pde”. 
+5.	Copy the code using the “Copy Raw Contents” options in the top ribbon. 
+4.	Paste your code into the newly created processing file and run the code. 
+5.	You should be able to get the same visualisation presented in the README file. 
 
- 
+To get a quick look at the raw data or the code, you could simply do that by clicking the desired file without the need to download them. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage:
-This project could be useful for beginners who are looking for a guide to exploratory data analysis or predictive modelling. This project make use of two types of predictive modelling, in specific, they are, multiple linear regression models and polynomial regression models. 
+This project provides a brief introduction to using Processing language in tackling real-world problems. Users can play around with the code to learn how the shapes could change while changing the underlying code. Furthermore, a scientist could use this code as a template for their own analysis of different data sets that shares the same number of variables (In this case three variables).  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -122,4 +119,3 @@ Email: [shahin.shehab21@gmail.com](shahin.shehab21@gmail.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: images/screenshot.png
-[product-screenshot-two]: images/screenshot-two.PNG
